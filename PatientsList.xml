@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hospital>
+    <patient>
+        <name>Khristoforov</name>
+        <surname>Alex</surname>
+        <birthday>1996-07-03</birthday>
+        <health>true</health>
+    </patient>
+     <patient>
+        <name>QQQQQQ</name>
+        <surname>Qqqqqqq</surname>
+        <birthday>1999-10-10</birthday>
+        <health>true</health>
+    </patient>
+  <patient>
+        <name>WWWWWWW</name>
+        <surname>Wwwwwww</surname>
+        <birthday>2001-10-10</birthday>
+        <health>true</health>
+    </patient>
+</hospital>
